@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fec6ab01-b54a-4ba0-b793-7fee847c5bee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/quynh/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/quynh/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/quynh/Draft.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.FirstBank">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.quynh.App" />
       <module name="banking-application" />
@@ -80,8 +83,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirstBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quynh.FirstBank" />
+      <module name="banking-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quynh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstBank" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Draft" />
         <item itemvalue="Application.App" />
